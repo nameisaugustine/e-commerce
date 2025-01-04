@@ -3,6 +3,7 @@ main(){
 sout("hello world");
 sout("hello coders");
 sout("hii augustine");
+sout("hii coders");
 syso(100);
 }
 }
