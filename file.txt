@@ -13,6 +13,7 @@ boolean isUpdated = false;
 double salary = 50000.0;
 sout(salary);
 
+String name = "augustine anil";
 float salary = 50000f;
 sout(salary);
 }
