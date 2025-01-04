@@ -1,11 +1,5 @@
 public class Person{
 main(){
-int i = 10;
-sout(i);
-int j = 20;
-sout(j);
-int k = 30;
-sout(k);
-sout(100);
+
 }
 }
