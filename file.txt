@@ -7,6 +7,5 @@ sout(j);
 int k = 30;
 sout(k);
 sout(100);
-sout("hii");
 }
 }
