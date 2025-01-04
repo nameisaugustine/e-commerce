@@ -1,6 +1,11 @@
 public class Person{
 main(){
+
+String name = "augustine";
+sout(name);
+
 int age = 23;
 sout(age);
+
 }
 }
