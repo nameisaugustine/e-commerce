@@ -15,6 +15,5 @@ sout(salary);
 
 float salary = 50000f;
 sout(salary);
-
 }
 }
