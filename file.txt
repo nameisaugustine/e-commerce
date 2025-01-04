@@ -1,5 +1,6 @@
 public class Person{
 main(){
-
+int age = 23;
+sout(age);
 }
 }
