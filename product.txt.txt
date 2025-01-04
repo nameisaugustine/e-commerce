@@ -2,6 +2,7 @@ public class Product{
 main(){
 sout("hello world");
 sout("hello coders");
+sout("hii augustine");
 syso(100);
 }
 }
