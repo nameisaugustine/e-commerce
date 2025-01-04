@@ -1,3 +1,6 @@
 public class Product{
+main(){
+sout("hello world");
 syso(100);
+}
 }
