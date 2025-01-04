@@ -7,12 +7,10 @@ sout(name);
 int age = 23;
 sout(age);
 
-
 double salary = 50000.0;
 sout(salary);
 
 float salary = 50000f;
 sout(salary);
-
 }
 }
