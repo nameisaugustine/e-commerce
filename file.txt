@@ -1,5 +1,8 @@
 public class Person{
 main(){
+int i = 10;
+int j = 20;
+int k = 30;
 sout(100);
 sout("hii");
 }
