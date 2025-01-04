@@ -7,9 +7,6 @@ sout(name);
 int age = 23;
 sout(age);
 
-boolean isValid = true;
-boolean isUpdated = false;
-
 double salary = 50000.0;
 sout(salary);
 
