@@ -7,11 +7,9 @@ sout(name);
 int age = 23;
 sout(age);
 
-<<<<<<< HEAD
 double salary = 50000.0;
 sout(salary);
 
-=======
 boolean isValid = true;
 boolean isUpdated = false;
 
@@ -19,7 +17,7 @@ double salary = 50000.0;
 sout(salary);
 
 String name = "augustine anil";
->>>>>>> develop
+
 float salary = 50000f;
 sout(salary);
 }
