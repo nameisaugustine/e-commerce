@@ -1,5 +1,6 @@
 public class Person{
 main(){
-
+String name = "augustine";
+sout(name);
 }
 }
