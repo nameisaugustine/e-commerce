@@ -1,5 +1,6 @@
 public class Person{
 main(){
 sout(100);
+sout("hii");
 }
 }
