@@ -1,6 +1,7 @@
 public class Product{
 main(){
 sout("hello world");
+sout("hello coders");
 syso(100);
 }
 }
