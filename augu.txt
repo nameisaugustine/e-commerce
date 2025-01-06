@@ -1,5 +1,6 @@
 public class Augu{
 this file contains my name
 Augustine
-
+public void alex(){
+}
 }
